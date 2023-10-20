@@ -16,7 +16,7 @@ Este é um algoritmo escrito em Visualg que gera senhas aleatórias com base em 
 Contribuições são bem-vindas. Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar este projeto.
 
 ## Autor
-[Turma de Ebgenharia de Software]
+[Turma de Engenharia de Software @2023]
 
 ## Licença
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
